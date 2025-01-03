@@ -1,7 +1,7 @@
 # Index  
-| Sr. | Topic                          | Difficulty          | Solution Link        |  
-|-----|--------------------------------|---------------------|----------------------|  
-| 1   | Add Two Integers               | Easy                | [Code](#)            |  
+| Sr. | Topic                          | Difficulty          | Solution Link                                            |  
+|-----|--------------------------------|---------------------|----------------------------------------------------------|  
+| 1   | Add Two Integers               | Easy                | [Code](problems/Add-Two-Integers/solution.cpp)           |  
 | 2   | Valid Anagram                  | Easy                | [Code](#)            | 
 | 3   | Squares of a Sorted Array      | Easy                | [Code](#)            | 
 
